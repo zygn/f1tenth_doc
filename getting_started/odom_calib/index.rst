@@ -1,6 +1,6 @@
 .. _doc_drive:
 
-Calibrating the Odometry
+오도메트리 최적화하기
 =========================
 .. note:: This section assumes that you have already completed :ref:`Building the Car <doc_build_car>`, :ref:`System Configuration <doc_software_setup>`, :ref:`Installing Firmware <doc_build_car_firmware>`, and :ref:`Driving the Car <doc_drive>`.
 

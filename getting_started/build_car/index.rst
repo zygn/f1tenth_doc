@@ -1,7 +1,7 @@
 .. _doc_build_car:
 
 
-Building the Car
+자동차 조립하기
 =====================
 At the end of this build section, you will have a fully functioning F1TENTH Autonomous Vehicle.
 

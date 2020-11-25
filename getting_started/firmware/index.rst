@@ -1,6 +1,6 @@
 .. _doc_build_car_firmware:
 
-Installing Firmware
+펌웨어 설치하기
 =======================
 .. note:: This section assumes that you have already completed :ref:`Building the Car <doc_build_car>` and :ref:`System Configuration <doc_software_setup>`.
 

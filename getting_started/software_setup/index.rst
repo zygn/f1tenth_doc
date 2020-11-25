@@ -1,6 +1,6 @@
 .. _doc_software_setup:
 
-System Configuration
+시스템 설정하기
 ========================
 .. note:: This section assumes that you have already completed :ref:`Building the Car <doc_build_car>`.
 

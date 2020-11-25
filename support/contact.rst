@@ -1,6 +1,6 @@
 .. _doc_contact:
 
-Contact
+문의
 ============
 F1TENTH is an open source project developed by a community of researchers and students. The documentation team can always use your feedback and help to improve the tutorials and class reference. If you don't understand something, or cannot find what you are looking for in the docs, help us make the documentation better by letting us know!
 

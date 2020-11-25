@@ -1,4 +1,4 @@
-Appendices
+부록
 ============
 
 .. toctree::
